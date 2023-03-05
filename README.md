@@ -1,7 +1,9 @@
 ### Hi there 👋
 Welcome to my Github page! I am Ainhoa Marticorena. 
 
-<!--<img align="right" alt="img" src="" width="50%" height="auto" /> -->
+<img align="right" alt="img" src="https://github.com/0UTATIME/0UTATIME/blob/main/cat.mp4" width="50%" height="auto" /> 
+
+
 
 🎓 I finished my cross-platform application development studies in 2022.
 
